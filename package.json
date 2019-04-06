@@ -5,7 +5,7 @@
   "repository": "akiletour/create-webpack-static-starter",
   "license": "MIT",
   "bin": {
-    "create-next-app": "./cli.js"
+    "create-webpack-static-starter": "./cli.js"
   },
   "dependencies": {
     "ansi-escapes": "^4.1.0",
