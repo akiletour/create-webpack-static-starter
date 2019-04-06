@@ -2,7 +2,7 @@
   "name": "webpack-static-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository: "akiletour/create-webpack-static-starter",
+  "repository": "akiletour/create-webpack-static-starter",
   "license": "MIT",
   "scripts": {
     "start": "encore dev-server --hot --port 8001",
