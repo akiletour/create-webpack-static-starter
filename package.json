@@ -1,5 +1,5 @@
 {
-  "name": "webpack-static-starter",
+  "name": "create-webpack-static-starter",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "akiletour/create-webpack-static-starter",
