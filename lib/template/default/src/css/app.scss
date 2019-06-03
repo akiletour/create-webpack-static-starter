@@ -1,5 +1,13 @@
+// Utils
 @import "common/variables";
 
+// Layouts
 @import "layouts/common";
 @import "layouts/header";
 @import "layouts/footer";
+
+// Components
+@import "components/button";
+
+// Pages
+@import "pages/homepage.scss";
