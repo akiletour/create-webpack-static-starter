@@ -1,6 +1,6 @@
 {
   "name": "create-webpack-static-starter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "repository": "akiletour/create-webpack-static-starter",
   "license": "MIT",
